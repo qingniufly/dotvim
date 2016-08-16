@@ -1,0 +1,21 @@
+[submodule "/Users/ligz/.vim/bundle/nerdtree"]
+	path = /Users/ligz/.vim/bundle/nerdtree
+	url = https://github.com/qingniufly/vim_plugins.git
+[submodule "/Users/ligz/.vim/bundle/pydiction"]
+	path = /Users/ligz/.vim/bundle/pydiction
+	url = https://github.com/qingniufly/vim_plugins.git
+[submodule "/Users/ligz/.vim/bundle/python-mode"]
+	path = /Users/ligz/.vim/bundle/python-mode
+	url = https://github.com/qingniufly/vim_plugins.git
+[submodule "/Users/ligz/.vim/bundle/tagbar"]
+	path = /Users/ligz/.vim/bundle/tagbar
+	url = https://github.com/qingniufly/vim_plugins.git
+[submodule "/Users/ligz/.vim/bundle/vim-colors-solarized"]
+	path = /Users/ligz/.vim/bundle/vim-colors-solarized
+	url = https://github.com/qingniufly/vim_plugins.git
+[submodule "/Users/ligz/.vim/bundle/vim-powerline"]
+	path = /Users/ligz/.vim/bundle/vim-powerline
+	url = https://github.com/qingniufly/vim_plugins.git
+[submodule "/Users/ligz/.vim/bundle/vim-sensible"]
+	path = /Users/ligz/.vim/bundle/vim-sensible
+	url = https://github.com/qingniufly/vim_plugins.git
